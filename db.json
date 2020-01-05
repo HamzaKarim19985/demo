@@ -2,17 +2,23 @@
    "data": [
 	
       {
-         "id":"01",
-         "language": "Java",
-         "edition": "third",
-         "author": "Herbert Schildt"
+         "id":"1",
+         "title": "Java for Dummies",
+         "rating": "4.1"
+        
       },
 	
       {
-         "id":"07",
-         "language": "C++",
-         "edition": "second",
-         "author": "E.Balagurusamy"
+         "id":"2",
+         "title": "Java for Stupids",
+         "rating": "3.2"
+        
+      },
+	    {
+         "id":"2",
+         "title": "Java for Idiots",
+         "rating": "3.9"
+        
       }
    ]
 }

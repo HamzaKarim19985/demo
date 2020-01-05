@@ -1,12 +1,12 @@
-{
+
   [
     { "id": 1,
       "title": "Moby Dick",
-      "Rating": 4.3
+      "Rating": "4.3"
     }
    
   ]
   
-}
+
  
  

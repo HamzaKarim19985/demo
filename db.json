@@ -1,27 +1,45 @@
- [
-	
-      {
-         "id":"1",
-         "name": "Java for Dummies",
-         "email": "4.1"
-        
-      },
-	
-        {
-         "id":"2",
-         "name": "Java for Dummies",
-         "email": "4.1"
-        
-      },,
-	     {
-         "id":"3",
-         "name": "Java for Dummies",
-         "email": "4.1"
-        
-      },
-   ]
-
-
-
- 
+{
+  "users": [
+    {
+      "name": "Grace",
+      "email": "sintama@gmail.com",
+      "id": "1"
+    },
+    {
+      "name": "Joesy",
+      "email": "boi1der@gmail.com",
+      "id": "2"
+    },
+    {
+      "name": "Jocelyn",
+      "email": "JGirl@gmail.com",
+      "id": "3"
+    },
+    {
+      "name": "Sky",
+      "email": "skylar@gmail.com",
+      "id": "4"
+    },
+    {
+      "name": "Jehova",
+      "email": "JayBoi@gmail.com",
+      "id": "5"
+    },
+    {
+      "name": "Jeeps",
+      "email": "XX_destroyerXX@gmail.com",
+      "id": "6"
+    },
+    {
+      "name": "Evaleyn",
+      "email": "samuraiGui@gmail.com",
+      "id": "7"
+    },
+    {
+      "name": "NewGuy",
+      "email": "EditingTape@gmail.com",
+      "id": "-OT8LdQ"
+    }
+  ]
+}
  
